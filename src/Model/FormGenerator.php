@@ -21,6 +21,6 @@ class FormGenerator extends BaseElement
                 $content .= $object->render() . "<br>";
             }
         }
-        return "<form> $content</form>";
+        return "<form style='margin: 20px ;max-width: 300px'> $content</form>";
     }
 }
