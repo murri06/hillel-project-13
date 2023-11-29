@@ -1,7 +1,7 @@
 <h1>Form Generator</h1>
 
 <div>
-    <form method="post" action="/form">
+    <form method="post">
         <label>Введіть необхідну кількість кнопок та їх назви через розділювач(,) : </label>
         <input type="number" min="0" name="numberButtons" value="0">
         <input type="text" name="namesButtons" value=""><br>

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Model;
+namespace App;
 
 class Selector extends InputElement
 {
