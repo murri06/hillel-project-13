@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Libraries\FormGenerator;
 
 class FormGenerator extends BaseElement
 {

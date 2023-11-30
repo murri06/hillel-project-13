@@ -1,2 +1,4 @@
-<h1>Form</h1>
-<?= $$keyParam ?>
+<div class="container">
+    <h2>Form</h2>
+    <?= $$keyParam ?>
+</div>

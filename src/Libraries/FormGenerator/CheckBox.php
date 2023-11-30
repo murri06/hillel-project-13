@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Libraries\FormGenerator;
 
 class CheckBox extends InputElement
 {

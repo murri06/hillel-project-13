@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Libraries\FormGenerator;
 
 abstract class InputElement extends BaseElement
 {
